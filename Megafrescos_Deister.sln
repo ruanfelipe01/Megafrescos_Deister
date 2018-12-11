@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Megafrescos_Deister_Recepciones", "Megafrescos_Deister_Recepciones.dtproj", "{CD807F9E-E0E2-4B35-BC19-AADBC36385E3}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Megafrescos_Deister_Empaque", "Megafrescos_Deister_Empaque\Megafrescos_Deister_Empaque.dtproj", "{03110535-A08F-4B14-8740-1C7623E876A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PowerBI", "PowerBI", "{74E8DE00-D221-4913-A31B-7CBD4880E19F}"
+	ProjectSection(SolutionItems) = preProject
+		Megafrescos_Deister_Recepciones_por_lote.pbix = Megafrescos_Deister_Recepciones_por_lote.pbix
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD807F9E-E0E2-4B35-BC19-AADBC36385E3}.Development|Default.ActiveCfg = Development
+		{CD807F9E-E0E2-4B35-BC19-AADBC36385E3}.Development|Default.Build.0 = Development
+		{03110535-A08F-4B14-8740-1C7623E876A8}.Development|Default.ActiveCfg = Development
+		{03110535-A08F-4B14-8740-1C7623E876A8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://suramericabi.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Megafrescos_Deister_Recepciones.dtproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = Megafrescos_Deister_Empaque\\Megafrescos_Deister_Empaque.dtproj
+		SccProjectName2 = Megafrescos_Deister_Empaque
+		SccLocalPath2 = Megafrescos_Deister_Empaque
+	EndGlobalSection
+EndGlobal
